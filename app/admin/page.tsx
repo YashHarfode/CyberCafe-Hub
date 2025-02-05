@@ -2,7 +2,7 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { ServiceManagement } from "@/components/admin/service-management"
 import { DataEntryForm } from "@/components/admin/data-entry-form"
-import { TaskManagement } from "@/components/admin/task-management"
+import { TaskManagement } from "@/components/admin/task-management";
 
 export default function AdminPanel() {
   return (
